@@ -1,7 +1,7 @@
 module.exports = {
   title: `devocean14.netlify.app/`,
   description: `개발바다`,
-  language: `ko`, // `ko`, `en` => currently support versions for Korean and English
+  language: `en`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://devocean14.netlify.app/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `pdk`,
+    name: `PDK`,
     bio: {
       role: `developer`,
-      description: ['꾸준히 하는', '능동적인', '포기하지 않는'],
+      description: ['with persistency', 'with open minded', 'keep learning'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
@@ -78,9 +78,9 @@ module.exports = {
         techStack: ['gatsby', 'react'],
         thumbnailUrl: 'blog.png',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '/devocean14.netlify.app',
+          github: 'https://github.com/padahkim/dev-blog.git',
+          demo: 'devocean14.netlify.app',
         },
       },
     ],
